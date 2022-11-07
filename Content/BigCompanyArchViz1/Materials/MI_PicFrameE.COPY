@@ -1,0 +1,26 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="MI_PicFrameE"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=3BA03CD148170CAFC52C5984F769D3CE
+   Parent=MaterialInstanceConstant'"/Game/BigCompanyArchViz1/Materials/MI_PicFrameD.MI_PicFrameD"'
+   ScalarParameterValues(0)=(ParameterInfo=(Name="Metal_intensity"),ExpressionGUID=EFD2CC294C5C5EB0ECF719852400877F)
+   ScalarParameterValues(1)=(ParameterInfo=(Name="Norm_intensity"),ParameterValue=1.000000,ExpressionGUID=5D8611D4476E51A5F14BFD91F031943A)
+   ScalarParameterValues(2)=(ParameterInfo=(Name="RAM_Scale"),ExpressionGUID=342FF2274E7A9EF9627B079929633342)
+   ScalarParameterValues(3)=(ParameterInfo=(Name="Rough_intensity"),ExpressionGUID=F34EAD1A4B82112B93B9CCB9AA894E60)
+   ScalarParameterValues(4)=(ParameterInfo=(Name="RefractionDepthBias"))
+   TextureParameterValues(0)=(ParameterInfo=(Name="Color"),ParameterValue=Texture2D'"/Game/BigCompanyArchViz1/Textures/T_PicFrameE_BaseColor.T_PicFrameE_BaseColor"',ExpressionGUID=A0258BC44F2F740BC518FD9505685880)
+   BasePropertyOverrides=(TwoSided=True,OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=95038786489B533081C466974DFF5A8F
+   ReferencedTextureGuids(1)=94ED679D4ECD77DAF369078B6F641B2E
+   ReferencedTextureGuids(2)=BB8EA27E494B23B3FE8D59B243D44350
+   CachedReferencedTextures(0)=Texture2D'"/Game/BigCompanyArchViz1/Textures/T_BrickOrange_BaseColor.T_BrickOrange_BaseColor"'
+   CachedReferencedTextures(1)=Texture2D'"/Game/BigCompanyArchViz1/Textures/T_BrickOrange_Roghness.T_BrickOrange_Roghness"'
+   CachedReferencedTextures(2)=Texture2D'"/Game/BigCompanyArchViz1/Textures/T_BrickOrange_Normal.T_BrickOrange_Normal"'
+   TextureStreamingDataVersion=1
+   TextureStreamingData(0)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="T_BrickOrange_Normal",TextureReference=/Game/BigCompanyArchViz1/Textures/T_BrickOrange_Normal.T_BrickOrange_Normal)
+   TextureStreamingData(1)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="T_PicFrameE_BaseColor",TextureReference=/Game/BigCompanyArchViz1/Textures/T_PicFrameE_BaseColor.T_PicFrameE_BaseColor)
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=1B1C154145D92BC906B892AB17C98090
+End Object
